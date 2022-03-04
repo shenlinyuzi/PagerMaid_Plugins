@@ -4,6 +4,7 @@
     "tx": [80, 97],
     "bb": [106, 276],
     "qm": [382, 135],
+    "jy": [216, 285],
     "kg": [23, 298]
   },
   "notifies": {
@@ -11,6 +12,7 @@
     "tx": "踢熊",
     "bb": "抱抱",
     "qm": "骑马",
+    "jy": "监狱",
     "kg": "快滚"
   },
   "extensionConfig": {
@@ -25,6 +27,9 @@
     },
         "qm": {
       "isSwap": true
+    },
+        "jy": {
+      "isSwap": true
     }
   },
   "needDownloadFileList": [
@@ -37,6 +42,8 @@
     "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/maskbb.png",
     "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/eatbb.png",
     "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/maskqm.png",
-    "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/eatqm.png"
+    "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/eatqm.png",
+    "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/eatjy.png",
+    "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/maskjy.png"
   ]
 }
