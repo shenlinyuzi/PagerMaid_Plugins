@@ -8,6 +8,7 @@
     "dsb": [198, 372],
     "nh": [245, 140],
     "xf": [217, 342],
+    "dsb1": [358, 311],
     "kg": [23, 298]
   },
   "notifies": {
@@ -19,6 +20,7 @@
     "dsb": "大傻逼",
     "nh": "怒吼",
     "xf": "下饭",
+    "dsb1": "大傻逼1",
     "kg": "快滚"
   },
   "extensionConfig": {
@@ -62,6 +64,8 @@
     "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/eatnh.png",
     "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/masknh.png",
     "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/maskxf.png",
-    "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/eatxf.png"
+    "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/eatxf.png",
+    "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/eatdsb1.png",
+    "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/maskdsb1.png"
   ]
 }
