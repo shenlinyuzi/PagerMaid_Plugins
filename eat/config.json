@@ -1,14 +1,19 @@
 {
   "positions": {
     "qi": [85, 263],
+    "tx": [80, 97],
     "kg": [23, 298]
   },
   "notifies": {
     "qi": "骑猪",
+    "tx": "踢熊",
     "kg": "快滚"
   },
   "extensionConfig": {
         "qi": {
+      "isSwap": true
+    },
+        "tx": {
       "isSwap": true
     }
   },
@@ -16,6 +21,8 @@
     "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/eatqi.png",
     "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/maskqi.png",
     "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/maskkg.png",
-    "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/eatkg.png"
+    "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/eatkg.png",
+    "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/eattx.png",
+    "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/masktx.png"
   ]
 }
