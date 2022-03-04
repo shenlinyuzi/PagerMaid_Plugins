@@ -6,6 +6,9 @@
     "qi": "骑猪"
   },
   "extensionConfig": {
+        "qi": {
+      "isSwap": true
+    }
   },
   "needDownloadFileList": [
     "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/eatqi.png",
