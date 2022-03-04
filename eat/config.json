@@ -7,6 +7,7 @@
     "jy": [216, 285],
     "dsb": [198, 372],
     "nh": [245, 140],
+    "xf": [217, 342],
     "kg": [23, 298]
   },
   "notifies": {
@@ -17,6 +18,7 @@
     "jy": "监狱",
     "dsb": "大傻逼",
     "nh": "怒吼",
+    "xf": "下饭",
     "kg": "快滚"
   },
   "extensionConfig": {
@@ -37,6 +39,9 @@
     },
         "nh": {
       "isSwap": true
+    },
+        "xf": {
+      "isSwap": true
     }
   },
   "needDownloadFileList": [
@@ -55,6 +60,8 @@
     "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/maskdsb.png",
     "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/eatdsb.png",
     "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/eatnh.png",
-    "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/masknh.png"
+    "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/masknh.png",
+    "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/maskxf.png",
+    "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/eatxf.png"
   ]
 }
