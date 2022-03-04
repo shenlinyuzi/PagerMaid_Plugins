@@ -1,11 +1,11 @@
 {
   "positions": {
     "qi": [85, 263],
-    "gun": [11, 287]
+    "kg": [23, 298]
   },
   "notifies": {
     "qi": "骑猪",
-    "gun": "快滚"
+    "kg": "快滚"
   },
   "extensionConfig": {
         "qi": {
@@ -15,7 +15,7 @@
   "needDownloadFileList": [
     "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/eatqi.png",
     "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/maskqi.png",
-    "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/maskgun.png",
-    "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/eatgun.png"
+    "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/maskkg.png",
+    "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/eatkg.png"
   ]
 }
