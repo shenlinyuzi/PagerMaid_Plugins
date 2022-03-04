@@ -1,0 +1,14 @@
+{
+  "positions": {
+    "qi": [153, 249]
+  },
+  "notifies": {
+    "qi": "骑猪"
+  },
+  "extensionConfig": {
+  },
+  "needDownloadFileList": [
+    "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/eatqi.png",
+    "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/maskqi.png"
+  ]
+}
