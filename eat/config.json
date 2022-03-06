@@ -11,6 +11,16 @@
     "dsb1": [358, 311],
     "dla": [275, 321],
     "kg": [16, 291],
+    "love": [381, 228],
+    "cy": [398, 224],
+    "sn": [37, 265],
+    "cb": [282, 351],
+    "wenh": [118, 171],
+    "hq": [95, 416],
+    "cs": [42, 248],
+    "bbt": [107, 233],
+    "cg": [273, 280],
+    "xhs": [150, 172],
     "tui": [5, 125],
     "xsyx": [322, 61, "xsyx1"],
     "xsyx1": [96, 61],
@@ -58,6 +68,16 @@
     "dsb1": "大傻逼啊",
     "dla": "膜拜大佬",
     "kg": "速度给我滚",
+    "love": "亲一口，亲一口！",
+    "cy": "大哥，来跟华子！",
+    "sn": "磨刀霍霍！",
+    "cb": "真香警告！",
+    "wenh": "这是什么鬼？",
+    "hq": "真晦气！踩到屎了！",
+    "cs": "吃屎吧你！",
+    "bbt": "舔一口超甜的棒棒糖",
+    "cg": "吃瓜现场",
+    "xhs": "学习学习！",
     "tui": "tuì～",
     "xsyx": "相视一笑",
     "jm": "揪咪～",
@@ -108,10 +128,31 @@
         "xf": {
       "isSwap": true
     },
-       "jm": {
+        "jm": {
       "isSwap": true
     },
-       "tui": {
+        "tui": {
+      "isSwap": true
+    },
+        "sn": {
+      "isSwap": true
+    },
+        "cb": {
+      "isSwap": true
+    },
+        "hq": {
+      "isSwap": true
+    },
+        "cs": {
+      "isSwap": true
+    },
+        "bbt": {
+      "isSwap": true
+    },
+        "cg": {
+      "isSwap": true
+    },
+        "xhs": {
       "isSwap": true
     }
   },
@@ -199,6 +240,26 @@
     "https://raw.githubusercontent.com/lowking/PagerMaid_Plugins/modify/eat/maskzou.png",
     "https://raw.githubusercontent.com/lowking/PagerMaid_Plugins/modify/eat/maskzou1.png",
     "https://raw.githubusercontent.com/lowking/PagerMaid_Plugins/modify/eat/eatri.png",
-    "https://raw.githubusercontent.com/lowking/PagerMaid_Plugins/modify/eat/maskri.png"
+    "https://raw.githubusercontent.com/lowking/PagerMaid_Plugins/modify/eat/maskri.png",
+    "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/eatbbt.png",
+    "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/maskbbt.png",
+    "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/eatcb.png",
+    "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/maskcb.png",
+    "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/eatcg.png",
+    "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/maskcg.png",
+    "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/eatcs.png",
+    "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/maskcs.png",
+    "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/eatcy.png",
+    "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/maskcy.png",
+    "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/eathq.png",
+    "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/maskhq.png",
+    "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/eatlove.png",
+    "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/masklove.png",
+    "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/eatsn.png",
+    "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/masksn.png",
+    "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/eatwenh.png",
+    "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/maskwenh.png",
+    "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/eatxhs.png",
+    "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/maskxhs.png"
   ]
 }
