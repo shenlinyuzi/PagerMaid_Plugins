@@ -14,6 +14,11 @@
     "love": [381, 228],
     "cy": [398, 224],
     "cy2": [5, 237],
+    "dy": [56, 397],
+    "xndy": [107, 21],
+    "xndy2": [107, 21],
+    "baib": [7, 269],
+    "df": [225, 32],
     "sn": [37, 265],
     "cb": [282, 351],
     "wenh": [118, 171],
@@ -72,6 +77,11 @@
     "love": "亲一口，亲一口！",
     "cy": "大哥，来跟华子！",
     "cy2": "大哥抽烟！",
+    "y": "姜太公钓鱼，愿者上钩～",
+    "xndy": "想你的液！",
+    "xndy2": "想你的液！",
+    "baib": "拜拜了您嘞！",
+    "df": "大佬带我飞！",
     "sn": "磨刀霍霍！",
     "cb": "真香警告！",
     "wenh": "这是什么鬼？",
@@ -152,6 +162,15 @@
       "isSwap": true
     },
         "cg": {
+      "isSwap": true
+    },
+        "dy": {
+      "isSwap": true
+    },
+        "xndy": {
+      "isSwap": true
+    },
+        "xndy2": {
       "isSwap": true
     },
         "xhs": {
@@ -263,6 +282,16 @@
     "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/maskwenh.png",
     "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/maskcy2.png",
     "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/eatcy2.png",
+    "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/eatdf.png",
+    "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/maskdf.png",
+    "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/eatdy.png",
+    "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/maskdy.png",
+    "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/eatbaib.png",
+    "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/maskbaib.png",
+    "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/eatxndy.png",
+    "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/maskxndy.png",
+    "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/eatxndy2.png",
+    "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/maskxndy2.png",
     "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/eatxhs.png",
     "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/maskxhs.png"
   ]
