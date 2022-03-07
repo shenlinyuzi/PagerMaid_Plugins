@@ -13,6 +13,7 @@
     "kg": [16, 291],
     "love": [381, 228],
     "cy": [398, 224],
+    "cy2": [5, 237],
     "sn": [37, 265],
     "cb": [282, 351],
     "wenh": [118, 171],
@@ -70,6 +71,7 @@
     "kg": "速度给我滚",
     "love": "亲一口，亲一口！",
     "cy": "大哥，来跟华子！",
+    "cy2": "大哥抽烟！",
     "sn": "磨刀霍霍！",
     "cb": "真香警告！",
     "wenh": "这是什么鬼？",
@@ -259,6 +261,8 @@
     "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/masksn.png",
     "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/eatwenh.png",
     "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/maskwenh.png",
+    "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/maskcy2.png",
+    "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/eatcy2.png",
     "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/eatxhs.png",
     "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/maskxhs.png"
   ]
