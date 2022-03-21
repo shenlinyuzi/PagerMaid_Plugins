@@ -73,6 +73,7 @@
     "zhi":[0,0,"zhi1"],
     "zhi1":[0,0],
     "lp":[14,138],
+    "lp1":[13,131],
     "ada1": [283, 146]
   },
   "notifies": {
@@ -141,6 +142,7 @@
     "cbb":"吃粑粑",
     "zhi":"指一下",
     "lp":"老婆快来",
+    "lp1":"老婆,一起睡觉吖~",
     "ada": "给爷死"
   },
   "extensionConfig": {
@@ -343,6 +345,8 @@
     "https://raw.githubusercontent.com/umr23333333/PagerMaid_Plugins/modify/eat/maskzhi1.png",
     "https://raw.githubusercontent.com/umr23333333/PagerMaid_Plugins/modify/eat/eatlp.png",
     "https://raw.githubusercontent.com/umr23333333/PagerMaid_Plugins/modify/eat/masklp.png",
+    "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/eatlp1.png",
+    "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/masklp1.png",
     "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/maskxhs.png"
   ]
 }
