@@ -73,7 +73,10 @@
     "zhi":[0,0,"zhi1"],
     "zhi1":[0,0],
     "lp":[14,138],
-    "lp1":[13,131],
+    "lp1":[15,130],
+    "hu":[-25,-40],
+    "jtx1":[85,269],
+    "ji":[334,60],
     "ada1": [283, 146]
   },
   "notifies": {
@@ -143,6 +146,9 @@
     "zhi":"指一下",
     "lp":"老婆快来",
     "lp1":"老婆,一起睡觉吖~",
+    "hu":"虎一下",
+    "jtx1":"就是你嘛！",
+    "ji":"寄",
     "ada": "给爷死"
   },
   "extensionConfig": {
@@ -345,8 +351,14 @@
     "https://raw.githubusercontent.com/umr23333333/PagerMaid_Plugins/modify/eat/maskzhi1.png",
     "https://raw.githubusercontent.com/umr23333333/PagerMaid_Plugins/modify/eat/eatlp.png",
     "https://raw.githubusercontent.com/umr23333333/PagerMaid_Plugins/modify/eat/masklp.png",
-    "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/eatlp1.png",
-    "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/masklp1.png",
+    "https://raw.githubusercontent.com/umr23333333/PagerMaid_Plugins/modify/eat/eatlp1.png",
+    "https://raw.githubusercontent.com/umr23333333/PagerMaid_Plugins/modify/eat/masklp1.png",
+    "https://raw.githubusercontent.com/umr23333333/PagerMaid_Plugins/modify/eat/eathu.png",
+    "https://raw.githubusercontent.com/umr23333333/PagerMaid_Plugins/modify/eat/maskhu.png",
+    "https://raw.githubusercontent.com/umr23333333/PagerMaid_Plugins/modify/eat/eatjtx1.png",
+    "https://raw.githubusercontent.com/umr23333333/PagerMaid_Plugins/modify/eat/maskjtx1.png",
+    "https://raw.githubusercontent.com/umr23333333/PagerMaid_Plugins/modify/eat/eatji.png",
+    "https://raw.githubusercontent.com/umr23333333/PagerMaid_Plugins/modify/eat/maskji.png",
     "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/maskxhs.png"
   ]
 }
