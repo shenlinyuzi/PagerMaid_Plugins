@@ -77,6 +77,7 @@
     "hu":[-25,-40],
     "jtx1":[85,269],
     "ji":[334,60],
+    "nz":[84,-5],
     "ada1": [283, 146]
   },
   "notifies": {
@@ -149,6 +150,7 @@
     "hu":"虎一下",
     "jtx1":"就是你嘛！",
     "ji":"寄",
+    "nz":"有脑子我就不用！",
     "ada": "给爷死"
   },
   "extensionConfig": {
@@ -359,6 +361,8 @@
     "https://raw.githubusercontent.com/umr23333333/PagerMaid_Plugins/modify/eat/maskjtx1.png",
     "https://raw.githubusercontent.com/umr23333333/PagerMaid_Plugins/modify/eat/eatji.png",
     "https://raw.githubusercontent.com/umr23333333/PagerMaid_Plugins/modify/eat/maskji.png",
-    "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/maskxhs.png"
+    "https://raw.githubusercontent.com/shenlinyuzi/PagerMaid_Plugins/main/eat/maskxhs.png",
+    "https://raw.githubusercontent.com/umr23333333/PagerMaid_Plugins/modify/eat/eatnz.png",
+    "https://raw.githubusercontent.com/umr23333333/PagerMaid_Plugins/modify/eat/masknz.png"
   ]
 }
